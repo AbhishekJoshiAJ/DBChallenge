@@ -14,8 +14,6 @@ The goal of this project is to build a high-performance API capable of handling 
   
   http://localhost:8080/actuator/health
   
-  http://localhost:8080/actuator/info
-  
   http://localhost:8080/actuator/metrics
   
   Custom Health Indicators: Implement custom health checks to provide detailed system health information.
