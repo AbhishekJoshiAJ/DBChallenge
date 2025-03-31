@@ -1,4 +1,4 @@
-The objective of this project is to develop a highly concurrent API for bank account transfers, utilizing Java 17 and Spring Boot 3.4.0. The application aims to provide efficient, scalable, and secure services for managing bank accounts and processing transfers. The following enhancements and features are considered for the development and future improvement of the application:
+The goal of this project is to build a high-performance API capable of handling concurrent bank account transfers efficiently, utilizing Java 17 and Spring Boot 3.4.0. The application aims to provide efficient, scalable, and secure services for managing bank accounts and processing transfers. The following enhancements and features are considered for the development and future improvement of the application:
 
 **1. API Documentation with Swagger:**
   The application uses Swagger for API documentation and testing. The Swagger UI can be accessed at:
